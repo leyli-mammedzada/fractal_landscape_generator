@@ -1,4 +1,4 @@
-Compilation
+**Compilation**
 To compile the program mlab package mayavi is needed (for plotting).
 To compile the Diamond_Square.py program, use the command:
 python2 Diamond_Square.py  <size>

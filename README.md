@@ -11,9 +11,9 @@ My implementation of a fractal landscape generator follows the Diamond-Square al
 2. The program creates a square surface of size 2*n+1 and initializes the positions 
    of its corners using random values.
 3. The program loops through the map and performs diamond and square steps on each iteration:
-   • Diamond step: set the midpoint of each square by calculating the average of the 
+   * Diamond step: set the midpoint of each square by calculating the average of the 
 	   corners and adding a random value.
-   • Square step:  set the midpoint of each diamond by calculating the average of the 
+   * Square step:  set the midpoint of each diamond by calculating the average of the 
 	   corners and adding a random value.
 4. The program recurses, decreasing the size of the map and the range of the random value.
 5. Return the modified map.

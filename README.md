@@ -1,10 +1,10 @@
- Compilation
+## Compilation
 To compile the program mlab package mayavi is needed (for plotting).
 To compile the Diamond_Square.py program, use the command:
-python2 Diamond_Square.py  <size>
+**python2 Diamond_Square.py  "size"**
 
 
-Implementation
+## Implementation
 My implementation of a fractal landscape generator follows the Diamond-Square algorithm.
 1. The program uses the size n entered by the user.
 2. Set the range of the random value to be (-1, 1).
@@ -20,7 +20,7 @@ My implementation of a fractal landscape generator follows the Diamond-Square al
 6. Plot the heightmap in 3D
 
 
-Future Improvements
+## Future Improvements
 There is still a lot to improve in my implementation of the Diamond-Square algorithm. 
 I am hoping to achieve more realistic results with smoother edges and for larger scales.
 Also, there is a possibility of adding detail on landscapes (water bodies, trees, etc.).

@@ -24,3 +24,13 @@ My implementation of a fractal landscape generator follows the Diamond-Square al
 There is still a lot to improve in my implementation of the Diamond-Square algorithm. 
 I am hoping to achieve more realistic results with smoother edges and for larger scales.
 Also, there is a possibility of adding detail on landscapes (water bodies, trees, etc.).
+
+## Results
+![alt text](https://github.com/leyli-mammedzada/fractal_landscape_generator/blob/master/size5(2).jpg)
+Size 5
+
+![alt text](https://github.com/leyli-mammedzada/fractal_landscape_generator/blob/master/size6.jpg)
+Size 6
+
+![alt text](https://github.com/leyli-mammedzada/fractal_landscape_generator/blob/master/size7.jpg)
+Size 7
